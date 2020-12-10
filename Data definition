@@ -38,7 +38,6 @@ HBP = Home Team Bookings Points (10 = yellow, 25 = red)
 ABP = Away Team Bookings Points (10 = yellow, 25 = red)
 
 ##Key to 1X2 (match) betting odds data:
-
 B365H = Bet365 home win odds
 B365D = Bet365 draw odds
 B365A = Bet365 away win odds
